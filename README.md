@@ -1,4 +1,4 @@
-<h5 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h5>
+<h5 align="left">Hi 👋! My name is Corral, and I’m a Mechatronics Engineering student at UTCH (Universidad Tecnológica de Chihuahua)..</h5>
 
 ###
 
@@ -49,10 +49,5 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZETAOCHO/ZETAOCHO/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZETAOCHO/ZETAOCHO/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZETAOCHO/ZETAOCHO/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
